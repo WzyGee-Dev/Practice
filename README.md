@@ -1,2 +1,3 @@
-# Practice
-incomplete
+# PracticeCore
+
+Practice minigame

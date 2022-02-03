@@ -1,0 +1,6 @@
+name: NoobyPractice
+main: NoobyMC\Core
+api:
+  - 4.0.0
+version: 1
+author: NoobyDev
