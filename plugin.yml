@@ -1,0 +1,11 @@
+name: Practice
+main: Practice\Loader
+api: 5.0.0
+version: 1.0
+author: WzyGee-Dev
+commands:
+  setspawn:
+    permission: spawn.command
+permissions:
+  spawn.command:
+    default: true

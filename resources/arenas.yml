@@ -1,0 +1,11 @@
+arenas:
+  sumo:
+    world: "sumo"
+    kit: "sumo"
+    icon: null
+    spawns: []
+  combo:
+    world: "combo"
+    kit: "combo"
+    icon: null
+    spawns: []

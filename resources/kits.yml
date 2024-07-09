@@ -1,0 +1,7 @@
+kits:
+  sumo:
+    items:
+      - {id: 267, count: 1}
+  combo:
+    items:
+      - {id: 267, count: 1}
